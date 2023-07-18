@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.htcvivesetuptest2023.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\jeronimo.sanchez\\Documents\\HTC Vive Setup Test 2023\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "HTC Vive Setup Test 2023 [Testing]"
+        }
+      }
+    }
+  ]
+}
